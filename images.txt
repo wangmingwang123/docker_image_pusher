@@ -5,6 +5,8 @@ k8s.gcr.io/coredns/coredns:v1.8.6
 k8s.gcr.io/descheduler/descheduler:v0.24.1
 yyxx/openvpn
 redislabs/redisinsight:latest
+mysql:5.7
+redis:5
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

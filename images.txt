@@ -8,6 +8,7 @@ redislabs/redisinsight:latest
 mysql:5.7
 redis:5
 hhyo/archery:v1.10.0
+docker.io/istio/pilot:1.16.7
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

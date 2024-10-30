@@ -26,8 +26,9 @@
 #docker.io/istio/examples-bookinfo-reviews-v3:1.17.0
 #centos:8
 #mysql:8.0
-lhrbest/greenplum:7.2.0
-mongo:latest
+#lhrbest/greenplum:7.2.0
+1panel/kubepi
+#mongo:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

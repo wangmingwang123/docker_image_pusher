@@ -27,7 +27,8 @@
 #centos:8
 #mysql:8.0
 #lhrbest/greenplum:7.2.0
-1panel/kubepi
+#1panel/kubepi
+keking/kkfileview
 #mongo:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

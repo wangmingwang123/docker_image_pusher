@@ -30,7 +30,8 @@
 #1panel/kubepi
 #keking/kkfileview
 #mongo:latest
-apache/flink:1.20.0-scala_2.12
+#apache/flink:1.20.0-scala_2.12
+flink:1.20.0-scala_2.12-java8
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

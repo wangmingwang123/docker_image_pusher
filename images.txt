@@ -28,8 +28,9 @@
 #mysql:8.0
 #lhrbest/greenplum:7.2.0
 #1panel/kubepi
-keking/kkfileview
+#keking/kkfileview
 #mongo:latest
+apache/flink:1.20.0-scala_2.12
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

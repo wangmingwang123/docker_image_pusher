@@ -32,7 +32,8 @@
 #mongo:latest
 #apache/flink:1.20.0-scala_2.12
 #flink:1.20.0-scala_2.12-java8
-apache/flink-kubernetes-operator:c703255
+#apache/flink-kubernetes-operator:c703255
+flink:1.20.0-scala_2.12-java11
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

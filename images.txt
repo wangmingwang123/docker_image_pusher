@@ -14,7 +14,7 @@ ghcr.io/tektoncd/pipeline/nop-8eac7c133edad5df719dc37b36b62482:v0.65.2@sha256:43
 ghcr.io/tektoncd/pipeline/sidecarlogresults-7501c6a20d741631510a448b48ab098f:v0.65.2@sha256:fb7900f99dcc25210c1cb2b9b38941e949a6cc2a1b66e93afb04f6622a1a04f9
 ghcr.io/tektoncd/pipeline/workingdirinit-0c558922ec6a1b739e550e349f2d5fc1:v0.65.2@sha256:1d5cb618fb87149cb80f69f9388d8a76829bd9a12f0f6a476d3c7bf7aab00335
 ghcr.io/tektoncd/triggers/controller-f656ca31de179ab913fa76abc255c315:v0.30.0@sha256:522304c51a07c8d27a2d9df746fa88400a87e2269fbeec6ea8abdeb6f957c93f
-gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.30.0
+#gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.30.0
 ghcr.io/tektoncd/triggers/webhook-dd1edc925ee1772a9f76e2c1bc291ef6:v0.30.0@sha256:fc72ca984313ce59f19537afb1ca4b1b3b0a593c7ec111386f96fed415550293
 ghcr.io/tektoncd/triggers/eventlistenersink-7ad1faa98cddbcb0c24990303b220bb8:v0.30.0@sha256:ba22b87166bcc29e20f4a7dc11be3ff063d6e1276e7e0db7819b381f4e13d7a3
 ghcr.io/tektoncd/chains/controller-92006fd957c0afd31de6a40b3e33b39f:v0.23.0@sha256:7abab31684e1e6afe070145883c3d4bd4e673a55eee48d156675ee22b9cd2c8b

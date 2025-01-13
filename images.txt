@@ -1,6 +1,10 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-docker.io/nicolaka/netshoot
+#docker.io/nicolaka/netshoot
+ghcr.io/tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v0.66.0
+ghcr.io/tektoncd/pipeline/events-a9042f7efb0cbade2a868a1ee5ddd52c:v0.66.0
+ghcr.io/tektoncd/pipeline/webhook-d4749e605405422fd87700164e31b2d1:v0.66.0
+ghcr.io/tektoncd/pipeline/resolvers-ff86b24f130c42b88983d3c13993056d:v0.66.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

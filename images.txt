@@ -21,6 +21,7 @@
 #ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.52.0@sha256:c01298c714fc9fa4ab8813469f15e94b4924328a749e178f984be0b70f78face
 #gcr.io/tekton-releases/dogfooding/tkn:latest
 #ghcr.io/tektoncd/triggers/interceptors-3176d6a3f314c3655b30bfd36e421dd5:v0.30.0@sha256:d2898b90afce06e10773af96e150f49c4d63db0ccb6ca93a466c38fa5c1ebb01
-ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.52.0@sha256:c01298c714fc9fa4ab8813469f15e94b4924328a749e178f984be0b70f78face
+#ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.52.0@sha256:c01298c714fc9fa4ab8813469f15e94b4924328a749e178f984be0b70f78face
+alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

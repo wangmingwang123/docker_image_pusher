@@ -28,9 +28,10 @@
 #registry.k8s.io/debian-base:v2.0.0
 #longhornio/longhorn-ui:v1.5.3
 #longhornio/longhorn-manager:v1.5.3
-longhornio/longhorn-engine:v1.5.3
-longhornio/longhorn-instance-manager:v1.5.3
-longhornio/backing-image-manager:v1.5.3
-longhornio/support-bundle-kit:v0.0.27
+#longhornio/longhorn-engine:v1.5.3
+#longhornio/longhorn-instance-manager:v1.5.3
+#longhornio/backing-image-manager:v1.5.3
+#longhornio/support-bundle-kit:v0.0.27
+longhornio/longhorn-share-manager:v1.5.3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

@@ -32,6 +32,12 @@
 #longhornio/longhorn-instance-manager:v1.5.3
 #longhornio/backing-image-manager:v1.5.3
 #longhornio/support-bundle-kit:v0.0.27
-longhornio/longhorn-share-manager:v1.5.3
+#longhornio/longhorn-share-manager:v1.5.3
+longhornio/csi-node-driver-registrar:v2.7.0
+longhornio/livenessprobe:v2.9.0
+longhornio/csi-attacher:v4.2.0
+longhornio/csi-provisioner:v3.4.1
+longhornio/csi-resizer:v1.7.0
+longhornio/csi-snapshotter:v6.2.1
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

@@ -24,6 +24,7 @@
 #ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.52.0@sha256:c01298c714fc9fa4ab8813469f15e94b4924328a749e178f984be0b70f78face
 #alpine
 #ubuntu
-bogeit/nfs-subdir-external-provisioner:v4.0.2
+#bogeit/nfs-subdir-external-provisioner:v4.0.2
+registry.k8s.io/debian-base:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

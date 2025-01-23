@@ -41,6 +41,8 @@
 #longhornio/csi-snapshotter:v6.2.1
 #docker.elastic.co/eck/eck-operator:2.10.0
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
-docker.elastic.co/kibana/kibana:8.11.3
+#docker.elastic.co/kibana/kibana:8.11.3
+docker.io/postgres:13.7-bullseye
+redis:6.2.7-alpine3.16
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

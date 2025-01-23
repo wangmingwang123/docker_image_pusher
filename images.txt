@@ -39,6 +39,7 @@
 #longhornio/csi-provisioner:v3.4.1
 #longhornio/csi-resizer:v1.7.0
 #longhornio/csi-snapshotter:v6.2.1
-docker.elastic.co/eck/eck-operator:2.10.0
+#docker.elastic.co/eck/eck-operator:2.10.0
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

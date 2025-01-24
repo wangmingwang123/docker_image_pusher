@@ -48,13 +48,14 @@
 #docker.io/cloudnativelabs/kube-router
 #quay.io/brancz/kube-rbac-proxy:v0.14.2
 #quay.io/fabxc/prometheus_demo_service:latest
-quay.io/prometheus/alertmanager:v0.26.0
-quay.io/prometheus/blackbox-exporter:v0.24.0
-quay.io/prometheus/node-exporter:v1.6.1
-quay.io/prometheus-operator/prometheus-operator:v0.67.1
-quay.io/prometheus-operator/prometheus-config-reloader:v0.67.1
-quay.io/prometheus/prometheus:v2.46.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.9.2
-registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1                        
+#quay.io/prometheus/alertmanager:v0.26.0
+#quay.io/prometheus/blackbox-exporter:v0.24.0
+#quay.io/prometheus/node-exporter:v1.6.1
+#quay.io/prometheus-operator/prometheus-operator:v0.67.1
+#quay.io/prometheus-operator/prometheus-config-reloader:v0.67.1
+#quay.io/prometheus/prometheus:v2.46.0
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.9.2
+#registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1                        
+docker.io/jimmidyson/configmap-reload:v0.5.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

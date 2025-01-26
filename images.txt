@@ -56,6 +56,7 @@
 #quay.io/prometheus/prometheus:v2.46.0
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.9.2
 #registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1                        
-docker.io/jimmidyson/configmap-reload:v0.5.0
+#docker.io/jimmidyson/configmap-reload:v0.5.0
+eipwork/kuboard:v3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

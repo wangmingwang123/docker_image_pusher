@@ -59,6 +59,7 @@
 #docker.io/jimmidyson/configmap-reload:v0.5.0
 #eipwork/kuboard:v3
 #eipwork/etcd-host:3.4.16-2
-eipwork/kuboard-agent:v3
+#eipwork/kuboard-agent:v3
+golang:1.22-alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

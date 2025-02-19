@@ -60,6 +60,7 @@
 #eipwork/kuboard:v3
 #eipwork/etcd-host:3.4.16-2
 #eipwork/kuboard-agent:v3
-golang:1.22-alpine
+#golang:1.22-alpine
+python:3.10-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

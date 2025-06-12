@@ -70,6 +70,7 @@
 #infiniflow/ragflow:v0.16.0-slim
 #node:18-alpine
 #nginx:1.25-alpine
-zerotier/zerotier
+#zerotier/zerotier
+natfrp/launcher
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

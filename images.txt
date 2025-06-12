@@ -71,6 +71,7 @@
 #node:18-alpine
 #nginx:1.25-alpine
 #zerotier/zerotier
-natfrp/launcher
+#natfrp/launcher
+tailscale/tailscale
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

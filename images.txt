@@ -72,6 +72,7 @@
 #nginx:1.25-alpine
 #zerotier/zerotier
 #natfrp/launcher
-tailscale/tailscale
+#tailscale/tailscale
+debian:bullseye-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

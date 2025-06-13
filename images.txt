@@ -74,5 +74,6 @@
 #natfrp/launcher
 #tailscale/tailscale
 debian:bullseye-slim
+golang:1.22
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

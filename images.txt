@@ -76,7 +76,8 @@
 #debian:bullseye-slim
 #golang:1.22
 #fredliang/derper
-ollama/ollama:0.9.0
-ghcr.io/open-webui/pipelines:main
+#ollama/ollama:0.9.0
+#ghcr.io/open-webui/pipelines:main
+ghcr.io/open-webui/open-webui:0.6.14
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

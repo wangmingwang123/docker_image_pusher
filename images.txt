@@ -83,6 +83,7 @@
 #lyzhang1999/chat_ops_payment_app:v1
 #docker.io/aquasec/trivy-db
 #python:3.12-slim
-ubuntu:20.04
+#ubuntu:20.04
+ubuntu/python:3.12-24.04_stable
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

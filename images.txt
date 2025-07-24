@@ -85,6 +85,9 @@
 #python:3.12-slim
 #ubuntu:20.04
 #ubuntu/python:3.12-24.04_stable
-ubuntu:24.04
+#ubuntu:24.04
+ghcr.io/chaos-mesh/chaos-mesh:v2.7.2
+ghcr.io/chaos-mesh/chaos-dashboard:v2.7.2
+ghcr.io/chaos-mesh/chaos-coredns:v0.2.6
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

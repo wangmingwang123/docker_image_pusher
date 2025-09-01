@@ -91,6 +91,7 @@
 #ghcr.io/chaos-mesh/chaos-coredns:v0.2.6
 #ghcr.io/chaos-mesh/chaos-daemon:v2.7.2
 #openshift/base-centos7:latest
-sonarqube:lts-community
+#sonarqube:lts-community
+gitlab/gitlab-ce:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

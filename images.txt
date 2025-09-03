@@ -93,6 +93,8 @@
 #openshift/base-centos7:latest
 #sonarqube:lts-community
 #gitlab/gitlab-ce:latest
-gitlab/gitlab-ce:13.12.8-ce.0
+#gitlab/gitlab-ce:13.12.8-ce.0
+docker.etoolsoft.com/go1.20.1-alpine
+docker.etoolsoft.com/htmp2pdfpackage
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

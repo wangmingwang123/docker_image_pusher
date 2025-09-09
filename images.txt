@@ -1,6 +1,6 @@
 #支持私库
 #docker.etoolsoft.com/htmp2pdfpackage
-golang:1.20.14
+#golang:1.20.14
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #docker.io/nicolaka/netshoot
@@ -88,15 +88,15 @@ golang:1.20.14
 #ubuntu:20.04
 #ubuntu/python:3.12-24.04_stable
 #ubuntu:24.04
-#ghcr.io/chaos-mesh/chaos-mesh:v2.7.2
-#ghcr.io/chaos-mesh/chaos-dashboard:v2.7.2
+ghcr.io/chaos-mesh/chaos-mesh:v2.7.3
+ghcr.io/chaos-mesh/chaos-dashboard:v2.7.3
 #ghcr.io/chaos-mesh/chaos-coredns:v0.2.6
-#ghcr.io/chaos-mesh/chaos-daemon:v2.7.2
+ghcr.io/chaos-mesh/chaos-daemon:v2.7.3
 #openshift/base-centos7:latest
 #sonarqube:lts-community
 #gitlab/gitlab-ce:latest
 #gitlab/gitlab-ce:13.12.8-ce.0
 #docker.etoolsoft.com/go1.20.1-alpine
-docker.etoolsoft.com/htmp2pdfpackage
+#docker.etoolsoft.com/htmp2pdfpackage
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

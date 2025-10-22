@@ -1,7 +1,7 @@
 #支持私库
 
-
-milvusdb/milvus-lite:latest
+openshift/base-centos7
+#milvusdb/milvus-lite:latest
 #redis:7.0.15-alpine3.20
 #ghcr.io/chaos-mesh/build-env:latest
 #docker.etoolsoft.com/htmp2pdfpackage

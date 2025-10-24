@@ -1,6 +1,6 @@
 #支持私库
 
-openshift/base-centos7
+alpine:3.11
 #milvusdb/milvus-lite:latest
 #redis:7.0.15-alpine3.20
 #ghcr.io/chaos-mesh/build-env:latest

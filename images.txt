@@ -1,5 +1,5 @@
 #支持私库
-envoyproxy/envoy:v1.33-latest
+envoyproxy/envoy@sha256:5fee0640d53d364b83cfc42b7ea6cecc4e91c2a79ee904b293bf9e096ac26e9a
 #alpine:3.11
 #milvusdb/milvus-lite:latest
 #redis:7.0.15-alpine3.20

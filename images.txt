@@ -1,6 +1,4 @@
 #支持私库
-agent-sandbox-controller:latest
-sandbox-manager:latest
 envoyproxy/envoy:v1.33-latest
 #alpine:3.11
 #milvusdb/milvus-lite:latest

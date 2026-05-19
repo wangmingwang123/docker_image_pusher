@@ -1,5 +1,6 @@
 #支持私库
-ghcr.io/astral-sh/uv:latest
+registry.access.redhat.com/rhel8/nodejs-22
+#ghcr.io/astral-sh/uv:latest
 #node:22-alpine
 #envoyproxy/envoy@sha256:5fee0640d53d364b83cfc42b7ea6cecc4e91c2a79ee904b293bf9e096ac26e9a
 #alpine:3.11

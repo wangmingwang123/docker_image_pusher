@@ -1,5 +1,6 @@
 #支持私库
-centos:centos7
+martizih/kaniko:v1.27.5
+#centos:centos7
 #docker/dockerfile:1.7
 #node:18-bullseye-slim
 #quay.io/sclorg/nodejs-22-c9s

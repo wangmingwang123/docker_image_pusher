@@ -1,6 +1,5 @@
 #支持私库
-gcr.io/kaniko-project/executor:v1.27.5-debug
-#martizih/kaniko:v1.27.5
+martizih/kaniko:v1.27.5-debug
 #centos:centos7
 #docker/dockerfile:1.7
 #node:18-bullseye-slim

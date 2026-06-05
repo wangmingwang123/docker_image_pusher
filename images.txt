@@ -1,7 +1,8 @@
 #支持私库
-martizih/kaniko:v1.27.5-debug
+#martizih/kaniko:v1.27.5-debug
 #centos:centos7
 #docker/dockerfile:1.7
+node:20-bullseye-slim
 #node:18-bullseye-slim
 #quay.io/sclorg/nodejs-22-c9s
 #ghcr.io/astral-sh/uv:latest

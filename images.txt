@@ -1,4 +1,5 @@
 #支持私库
+ghcr.io/apache/flink-kubernetes-operator:0315e91
 #martizih/kaniko:v1.27.5-debug
 #centos:centos7
 #docker/dockerfile:1.7
